@@ -9,7 +9,7 @@
 <path d="M289.333 168L296 174.667M296 174.667L302.667 168M296 174.667V161.333M312.667 168C312.667 177.205 305.205 184.667 296 184.667C286.795 184.667 279.333 177.205 279.333 168C279.333 158.795 286.795 151.333 296 151.333C305.205 151.333 312.667 158.795 312.667 168Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
-<rect x="40.5" y="40.5" width="369" height="169" rx="19.5" stroke="#EBEBEB"/>
+<rect x="40" y="40" width="370" height="170" rx="20" stroke="#EBEBEB" stroke-width="2"/>
 </g>
 <defs>
 <filter id="filter0_d_1_2" x="273.833" y="149.833" width="44.3333" height="44.3333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
